@@ -1,12 +1,12 @@
 {
- "package": "Farmware Unlocker",
+ "package": "Farmware Emergency Locker",
  "language": "python",
  "author": "newt0ns",
- "description": "A simple Farmware progmatic emergency unlock",
+ "description": "A simple Farmware progmatic emergency lock",
  "version": "1.0.0",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/newt0ns/farmware-unlock/master/manifest.json",
- "zip": "https://github.com/newt0ns/farmware-unlock/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/newt0ns/farmware-lock/master/manifest.json",
+ "zip": "https://github.com/newt0ns/farmware-lock/archive/master.zip",
  "executable": "python",
- "args": ["farmware-unlock-master/unlock.py"]
+ "args": ["farmware-unlock-master/lock.py"]
 }
