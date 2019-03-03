@@ -8,5 +8,5 @@
  "url": "https://raw.githubusercontent.com/newt0ns/farmware-lock/master/manifest.json",
  "zip": "https://github.com/newt0ns/farmware-lock/archive/master.zip",
  "executable": "python",
- "args": ["farmware-unlock-master/lock.py"]
+ "args": ["farmware-lock-master/lock.py"]
 }
